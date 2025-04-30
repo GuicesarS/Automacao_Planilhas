@@ -1,0 +1,14 @@
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\bin\Debug\net9.0\DESK_OP.exe
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\bin\Debug\net9.0\DESK_OP.deps.json
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\bin\Debug\net9.0\DESK_OP.runtimeconfig.json
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\bin\Debug\net9.0\DESK_OP.dll
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\bin\Debug\net9.0\DESK_OP.pdb
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.AssemblyInfoInputs.cache
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.AssemblyInfo.cs
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.dll
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\refint\DESK_OP.dll
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.pdb
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\DESK_OP.genruntimeconfig.cache
+C:\Users\Guilherme.Soares\Desktop\PLANILHAS\DESK_OP\obj\Debug\net9.0\ref\DESK_OP.dll
